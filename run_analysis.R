@@ -52,4 +52,4 @@ data_tidy <- dcast(data_final, subject + activity ~ variable, mean)
 
 # Exports data set to working directory
 
-write.table(data_tidy, "data_tidy.txt", row.name = F)
+write.table(data_tidy, "data_tidy.txt", row.names = F)
