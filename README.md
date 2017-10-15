@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course - Project
 
-The purpose of this repository is the submission of my final project of the Coursera's course: "Getting and Cleaning Data Course Project.
+The purpose of this repository is the submission of my final project at Coursera's course: "Getting and Cleaning Data Course Project.
 
 ## Abstract
 
